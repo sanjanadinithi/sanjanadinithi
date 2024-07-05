@@ -13,5 +13,11 @@
 <p align="left">
 </p>
 
+<img title="" alt="" width="40px" src="" />|
+
 <h3 align="left">Languages and Tools:</h3>
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|
+
+**Programming Languages**
+
+<img title="C" alt="C" width="40px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" />|<img title="C++" alt="C++" width="40px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" />|<img title="C#" alt="C#" width="40px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" />|<img title="" alt="" width="40px" src="" />|<img title="" alt="" width="40px" src="" />|<img title="" alt="" width="40px" src="" />|<img title="" alt="" width="40px" src="" />|<img title="" alt="" width="40px" src="" />|<img title="" alt="" width="40px" src="" />|<img title="" alt="" width="40px" src="" />|<img title="" alt="" width="40px" src="" />|<img title="" alt="" width="40px" src="" />|
+|--|--|--|
