@@ -1,7 +1,21 @@
-<h1 align="center">Hi 👋, I'm Dinithi Sanjana</h1>
+---
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/sanjanadinithi?style=social"> &nbsp;&nbsp;
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/sanjanadinithi?style=social"> &nbsp;&nbsp;
+<img alt="Sanjanadinithi | Count Views" src="https://komarev.com/ghpvc/?username=sanjanadinithi&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanadinithi" />
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Dinithi+Sanjana">
+  </a>
+</p>
+
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+
+<br>
+
 <h3 align="center">A passionate developer from Sri Lanka. I’m interested in developing software's and data analyzing. I'm currently learning B.Sc (Hons) Information Technology @ SLIIT Uni</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjanadinithi&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanadinithi" /> </p>
+<br>
 
 - 🔭 I’m currently working on **ITP_Project**
 
@@ -9,13 +23,15 @@
 
 - 📫 How to reach me **sanjanadinithi6@gamil.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<br>
 
-<img title="" alt="" width="40px" src="" />|
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Connect with me
 
-<h3 align="left">Languages and Tools:</h3>
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Languages and Tools
+
+<br>
 
 **Programming Languages**
 
@@ -48,6 +64,12 @@
 
 **Mobile App Development**
 
+<br>
+
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> GIT Stats
+
+<br>
+
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sanjanadinithi&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanadinithi&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
@@ -55,3 +77,5 @@
   <br>
   <br>
  </p>
+
+---
